@@ -11,7 +11,8 @@ front-end/!.yarn/patches
 front-end/!.yarn/plugins
 front-end/!.yarn/releases
 front-end/!.yarn/versions
-
+front-end/package-lock.json
+backend/package-lock.json
 # testing
 /front-end/coverage
 

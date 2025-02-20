@@ -1,20 +1,22 @@
-(./figma-projeto-react-nlwconnect.png)
-## Sobre o Projeto
 
+<img src="https://github.com/carlosmartos13/nlw-connect-rockeseat/blob/main/figma-projeto-react-nlwconnect.png" />
+
+
+## Sobre o Projeto 
 Este é um projeto do estudo de um mini curso chamado NLW da Rocketseat, onde o objetivo é conhecer algumas funcionalidades importantes do react, nesse projeto usamos as tecnologias:
-    "@hookform/resolvers": "^3.10.0",
-    "@tailwindcss/postcss": "^4.0.4",
-    "lucide-react": "^0.474.0",
-    "next": "15.1.6",
-    "orval": "^7.5.0",
-    "postcss": "^8.5.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-hook-form": "^7.54.2",
-    "tailwind-merge": "^3.0.1",
-    "tailwindcss": "^4.0.4",
-    "zod": "^3.24.1"
-    [Projeto no Figma encotrase aqui:[(https://www.figma.com/community/file/1471119935944492720)]
+- @hookform/resolvers
+- @tailwindcss/postcss
+- lucide-react
+- next
+- orval
+- postcss
+- react
+- react-dom
+- react-hook-form
+- tailwind-merge
+- tailwindcss
+- zod
+- [Projeto no Figma:](https://www.figma.com/community/file/1471119935944492720)
     
 
 
@@ -26,7 +28,7 @@ BAIXE O ARQUIVO ZIP OU FAÇA UM CLONE DO PROJETO NA SUA MAQUINA:
 **BACKEND**
 É necessario ter previamente instalado o node e o docker para funcionar esse projeoto
 
-NO BACKEND INICIE A INSTALAÇÃO USANDO O COMANDO:
+NO BACKEND INICIE A INSTALAÇÃO COM UM TERMONAL NA PASTA BACKEND USANDO O COMANDO:
 ```BASH
 npm install
 ```

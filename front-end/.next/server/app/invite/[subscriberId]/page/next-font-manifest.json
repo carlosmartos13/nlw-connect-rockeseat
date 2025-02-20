@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/invite/[subscriberId]/page": [
+      "static/media/RrQQboN_4yJ0JmiMe2LE0ZJCZ4c-s.p.4f164426.woff2",
+      "static/media/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-s.p.d1a74dd0.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

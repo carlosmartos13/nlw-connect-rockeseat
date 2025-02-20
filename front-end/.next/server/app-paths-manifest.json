@@ -1,0 +1,4 @@
+{
+  "/(home)/page": "app/(home)/page.js",
+  "/invite/[subscriberId]/page": "app/invite/[subscriberId]/page.js"
+}
